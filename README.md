@@ -8,10 +8,13 @@ https://docs.google.com/presentation/d/1VLj1JthCVC1mGMSzR1nwBDu5osRHuU8tUFBVxV4K
 Fornecer um espaço para treino de GIT
 
 Cada arquivo .txt contém a letra de música correspondente da Pabllo Vittar por discografia.
+
 Algumas letras estão com um bloco faltante. Os blocos são marcados com <------------>
+
 Algumas letras estão com uma linha faltante. As linhas estão marcadas com ***********
 
 Algumas letras estão vazias.
+
 
 ## Como contribuir:
 
